@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Iskan228
-- 👀 I’m interested in C, C++, Lua, Ruby, Python
-- 🌱 I’m currently learning C++
+- 👀 I’m interested in C, C++, Lua, Ruby, Python, LISP, Haskell, Assemblers (x86, MIPS, 6502, ...), retro-programming
+- 🌱 I’m currently learning C++ and Go
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me:
 - Telegram: @Iskan229
